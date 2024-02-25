@@ -1,0 +1,2 @@
+# RandomNumazu
+RandomNumazu可以帮助您生成一个可以返回随机背景图片的链接，并可直接应用于博客中。
