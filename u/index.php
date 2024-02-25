@@ -6,7 +6,7 @@
     <title>Make your RandomNumazu</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
-    <link rel="stylesheet" type="text/css" href="./u/styles.css">
+    <link rel="stylesheet" type="text/css" href="./styles.css">
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
     
     <style>
@@ -31,7 +31,7 @@
     <h4 style="z-index: 1">RandomNumazu可以帮助您生成一个可以返回随机背景图片的链接，并可直接应用于博客中。</h1>
     <p style="z-index: 1">以换行为界限，一行输入一个图片地址。</p>
     <p>推荐图床：<a href="https://imgtp.com/" target="_blank">imgtp</a></p>
-    <form action="./u/start" method="post">
+    <form action="./start" method="post">
         <label class="text-field filled">
           <textarea name="text" rows="16" cols="80"></textarea>
           <span>壁纸地址</span>
