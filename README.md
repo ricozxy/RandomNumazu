@@ -8,8 +8,8 @@ RandomNumazu可以帮助您生成一个可以返回随机背景图片的链接�
 ```
 https://api.miraao.com
 ```
-全部替换成你的网址。  
+全部替换成您的网址。  
 3.部署在支持php的服务器中，确保RandomNumazu文件夹位于网站根目录中。  
 
 # Demo
-你可以在 [api.miraao.com](https://api.miraao.com/RandomNumazu/u/) 中查看Demo。
+您可以在 [api.miraao.com](https://api.miraao.com/RandomNumazu/u/) 中查看Demo。
