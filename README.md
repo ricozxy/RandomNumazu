@@ -12,4 +12,4 @@ https://api.miraao.com
 3.部署在支持php的服务器中，确保RandomNumazu文件夹位于网站根目录中。  
 
 # Demo
-你可以在 [api.miraao.com](https://pages.github.com/RandomNumazu/u/) 中查看Demo。
+你可以在 [api.miraao.com](https://api.miraao.com/RandomNumazu/u/) 中查看Demo。
